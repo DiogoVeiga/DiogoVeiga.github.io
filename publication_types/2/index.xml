@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Diogo F.T. Veiga</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Diogo F.T. Veiga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 06 Nov 2018 11:42:57 -0500</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ribonuclease inhibitor 1 regulates erythropoiesis by controlling GATA1 translation</title>
+      <link>/publication/rnh1-2018/</link>
+      <pubDate>Tue, 06 Nov 2018 11:42:57 -0500</pubDate>
+      
+      <guid>/publication/rnh1-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput screening in niche-based assay identifies compounds to target preleukemic stem cells</title>
+      <link>/publication/prelsc-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/prelsc-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The {LMO}2 oncogene regulates {DNA} replication in hematopoietic cells</title>
+      <link>/publication/lmo2-2016/</link>
+      <pubDate>Tue, 02 Feb 2016 11:43:20 -0500</pubDate>
+      
+      <guid>/publication/lmo2-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCL, LMO1 and Notch1 reprogram thymocytes into self-renewing cells</title>
+      <link>/publication/selfrenewalnet-2014/</link>
+      <pubDate>Thu, 18 Dec 2014 11:50:07 -0500</pubDate>
+      
+      <guid>/publication/selfrenewalnet-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide discovery of small RNAs in Mycobacterium tuberculosis</title>
+      <link>/publication/ncrna-mtb-2012/</link>
+      <pubDate>Wed, 19 Dec 2012 11:44:36 -0500</pubDate>
+      
+      <guid>/publication/ncrna-mtb-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking the transcriptional profiles and the physiological states of Mycobacterium tuberculosis during an extended intracellular infection</title>
+      <link>/publication/trnetwork-mtb-2012/</link>
+      <pubDate>Thu, 21 Jun 2012 11:45:16 -0500</pubDate>
+      
+      <guid>/publication/trnetwork-mtb-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exposing the cancer genome atlas as a SPARQL endpoint</title>
+      <link>/publication/sparqltcga-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 11:45:41 -0500</pubDate>
+      
+      <guid>/publication/sparqltcga-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network inference and network response identification: moving genome-scale data to the next level of biological discovery</title>
+      <link>/publication/networksrev-2010/</link>
+      <pubDate>Fri, 11 Dec 2009 11:46:29 -0500</pubDate>
+      
+      <guid>/publication/networksrev-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DASMiner: discovering and integrating data from DAS sources</title>
+      <link>/publication/dasminer-2009/</link>
+      <pubDate>Tue, 17 Nov 2009 11:46:49 -0500</pubDate>
+      
+      <guid>/publication/dasminer-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semantic Web management model for integrative biomedical informatics</title>
+      <link>/publication/s3db-2008/</link>
+      <pubDate>Wed, 13 Aug 2008 11:47:16 -0500</pubDate>
+      
+      <guid>/publication/s3db-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting transcriptional regulatory interactions with artificial neural networks applied to E. coli multidrug resistance efflux pumps</title>
+      <link>/publication/neuralnets-2008/</link>
+      <pubDate>Thu, 19 Jun 2008 11:47:36 -0500</pubDate>
+      
+      <guid>/publication/neuralnets-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide partial correlation analysis of Escherichia coli microarray data</title>
+      <link>/publication/partialcorr-2007/</link>
+      <pubDate>Mon, 01 Oct 2007 11:48:03 -0500</pubDate>
+      
+      <guid>/publication/partialcorr-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene networks as a tool to understand transcriptional regulation</title>
+      <link>/publication/genenets-2006/</link>
+      <pubDate>Wed, 01 Mar 2006 11:48:23 -0500</pubDate>
+      
+      <guid>/publication/genenets-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extension of the IsaViz software for the representation of metabolic and regulatory networks</title>
+      <link>/publication/isaviz-2005/</link>
+      <pubDate>Wed, 01 Jun 2005 11:48:42 -0500</pubDate>
+      
+      <guid>/publication/isaviz-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
