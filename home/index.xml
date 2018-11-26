@@ -36,7 +36,7 @@
       <pubDate>Fri, 20 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/home/about/</guid>
-      <description>About me I am currently a Full Computational Scientist at the Jackson Laboratory. I joined Jacques Banchereau&amp;rsquo;s lab at the Jackson Laboratory to help developing a groundbreaking research program aimed at the identification of cancer isoforms using hybrid-capture long-read sequencing. Here, I am leading the development of a computational pipeline to analyze hybrid-capture long-read sequencing data combined with RNA-seq data to discover RNA-based neoantigens. Our premise is that splicing aberration in cancer generates RNA-based neoantigens that can be exploited for immunotherapy.</description>
+      <description>About me I am currently a Full Computational Scientist at the Jackson Laboratory. I joined Jacques Banchereau&amp;rsquo;s lab at the Jackson Laboratory to help developing a groundbreaking research program aimed at the identification of cancer isoforms using hybrid-capture long-read sequencing. Here, I am leading the development of a proteogenomics pipeline to analyze hybrid-capture long-read isoform sequencing, RNA-seq, and proteomics datasets to discover RNA-based neoantigens that can be exploited for immunotherapy.</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@
     </item>
     
     <item>
-      <title>All Publications</title>
+      <title>Recent Publications</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -120,6 +120,16 @@
       <description> Here are the students I&amp;rsquo;ve mentored recently at JAX.
 2018  Qianchang Wang, Academic Year Intern at the Jackson Laboratoy. Project: A novel method for clustering and quantification of cancer isoforms detected using hybrid-capture long read sequencing.  2017  Mary Accurso, Co-Op Associate/Summer Intern at the Jackson Laboratoy.
 Project: Prediction of soluble and membrane isoforms in the immune transcriptome sequenced using PacBio long read technology.  </description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/home/software/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/software/</guid>
+      <description> maser R/Bioconductor package.
+This package provides functionalities for analysis, annotation and visualizaton of alternative splicing events.  </description>
     </item>
     
     <item>
